@@ -13,7 +13,7 @@
 
 	<div id="page-wrap">
 
-		<h1>Final Quiz for Lip building</h1>
+		<h1>You got</h1>
 		
         <?php
             
